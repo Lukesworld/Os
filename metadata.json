@@ -1,0 +1,6 @@
+{
+  "name": "VAOS - Virtual Autonomous OS",
+  "description": "An AI sandbox operating system where an autonomous AI controls a virtual sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
